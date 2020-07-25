@@ -223,6 +223,3 @@
       * [D](https://github.com/jai-dewani/Competitive-Programming/blob/master/\CodeForces\round658/D.py)  
     * Round659  
       * [A](https://github.com/jai-dewani/Competitive-Programming/blob/master/\CodeForces\round659/A.py)  
-  * Hackercup  
-    * [A](https://github.com/jai-dewani/Competitive-Programming/blob/master/\HackerCup/A.py)  
-    * [Build Directory](https://github.com/jai-dewani/Competitive-Programming/blob/master/\/build_directory.py)  
