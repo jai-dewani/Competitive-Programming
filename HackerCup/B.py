@@ -1,5 +1,5 @@
 output = open('output2.txt','w+')
-inputt = open('alchemy_input.txt','r')
+inputt = open('input2.txt','r')
 for _ in range(int(inputt.readline())):
     print(_+1)
     n = int(inputt.readline())
